@@ -71,3 +71,4 @@ react-custom-scrollbars-2            4.4.0
 ### Original Release
 
 - Added Chakra UI as base framework
+
