@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.0] 2022-09-18
+
+### Update v1.1.0
+
+- All errors removed.
+
 ## [1.0.2] 2022-05-16
 
 ### Update v1.0.2
