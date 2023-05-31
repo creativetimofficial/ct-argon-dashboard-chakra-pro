@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.1] 2023-05-31
+
+### Update v1.1.1
+
+- Iframe error fixed.
+
+
 ## [1.1.0] 2022-09-18
 
 ### Update v1.1.0
@@ -71,4 +78,3 @@ react-custom-scrollbars-2            4.4.0
 ### Original Release
 
 - Added Chakra UI as base framework
-
